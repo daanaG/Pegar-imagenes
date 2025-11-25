@@ -1,0 +1,2 @@
+# Pegar-imagenes
+pegatinas
